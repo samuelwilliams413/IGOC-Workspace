@@ -1,0 +1,192 @@
+username,payroll_id,fname,lname,number,group,local_date,local_day,local_start_time,local_end_time,tz,hours,jobcode,location,notes,approved_status
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,4/06/2018,Mon,4/06/2018 6:30,4/06/2018 9:15,10,2.75,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,4/06/2018,Mon,4/06/2018 9:15,4/06/2018 15:00,10,5.75,Q - 1992 - Saint Joseph's college,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,5/06/2018,Tue,5/06/2018 7:00,5/06/2018 10:45,10,3.75,Q - 1992 - Saint Joseph's college,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,5/06/2018,Tue,5/06/2018 10:45,5/06/2018 11:15,10,0.5,Lunch Break,,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,5/06/2018,Tue,5/06/2018 11:15,5/06/2018 15:00,10,3.75,Q - 1992 - Saint Joseph's college,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,5/06/2018,Tue,5/06/2018 15:00,5/06/2018 15:30,10,0.5,0100 - Non Chargable,"(Tellebang, Queensland, AU?)",Knight Frank induction,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 7:00,6/06/2018 8:45,10,1.75,Q - 2112 - Trinity College Kiln,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 8:45,6/06/2018 10:00,10,1.25,Q - 2151 - Britton Engineering,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 10:00,6/06/2018 12:15,10,2.25,Q - 2151 - Britton Engineering,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 12:15,6/06/2018 12:30,10,0.25,I - 2150 - Worongary Dentist/Real Estate,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 12:30,6/06/2018 13:00,10,0.5,Lunch Break,,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 13:00,6/06/2018 15:00,10,2,I - 2150 - Worongary Dentist/Real Estate,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,6/06/2018,Wed,6/06/2018 15:00,6/06/2018 15:30,10,0.5,0100 - Non Chargable,"(Tellebang, Queensland, AU?)",finished job at 3pm,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,7/06/2018,Thu,7/06/2018 7:00,7/06/2018 9:30,10,2.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,7/06/2018,Thu,7/06/2018 9:30,7/06/2018 10:00,10,0.5,Lunch Break,,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,7/06/2018,Thu,7/06/2018 10:00,7/06/2018 12:15,10,2.25,I - 2130 - Muil Quoted,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,7/06/2018,Thu,7/06/2018 12:15,7/06/2018 15:45,10,3.5,Q - 2152 - VISY Bailer,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,8/06/2018,Fri,8/06/2018 8:00,8/06/2018 10:00,10,2,Q - 2156 - VISY Faulty Light,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,8/06/2018,Fri,8/06/2018 10:00,8/06/2018 11:00,10,1,Q - 2156 - VISY Faulty Light,TSheets Android App,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,8/06/2018,Fri,8/06/2018 11:00,8/06/2018 11:30,10,0.5,Lunch Break,,,approved
+mitchell.allen@igoc.com.au,,Mitchell,Allen,0,-,8/06/2018,Fri,8/06/2018 11:30,8/06/2018 14:30,10,3,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,4/06/2018,Mon,4/06/2018 6:30,4/06/2018 11:00,10,4.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,4/06/2018,Mon,4/06/2018 11:00,4/06/2018 11:30,10,0.5,Lunch Break,,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,4/06/2018,Mon,4/06/2018 11:30,4/06/2018 15:00,10,3.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,5/06/2018,Tue,5/06/2018 7:30,5/06/2018 12:00,10,4.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,5/06/2018,Tue,5/06/2018 12:00,5/06/2018 12:30,10,0.5,Lunch Break,,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,5/06/2018,Tue,5/06/2018 12:30,5/06/2018 16:00,10,3.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,6/06/2018,Wed,6/06/2018 6:30,6/06/2018 10:45,10,4.25,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,6/06/2018,Wed,6/06/2018 10:45,6/06/2018 11:15,10,0.5,Lunch Break,,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,6/06/2018,Wed,6/06/2018 11:15,6/06/2018 15:00,10,3.75,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,7/06/2018,Thu,7/06/2018 6:30,7/06/2018 11:15,10,4.75,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,7/06/2018,Thu,7/06/2018 11:15,7/06/2018 11:45,10,0.5,Lunch Break,,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,7/06/2018,Thu,7/06/2018 11:45,7/06/2018 15:00,10,3.25,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,8/06/2018,Fri,8/06/2018 6:30,8/06/2018 11:15,10,4.75,I - 2130 - Muil Quoted,TSheets Android App,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,8/06/2018,Fri,8/06/2018 11:15,8/06/2018 11:45,10,0.5,Lunch Break,,,approved
+lloyd.collins@igoc.com.au,,Lloyd,Collins,0,-,8/06/2018,Fri,8/06/2018 11:45,8/06/2018 13:00,10,1.25,I - 2130 - Muil Quoted,TSheets Android App,,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,4/06/2018,Mon,4/06/2018 8:00,4/06/2018 12:15,10,4.25,0100 - Non Chargable,TSheets Android App,Tafe,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,4/06/2018,Mon,4/06/2018 12:15,4/06/2018 12:45,10,0.5,Lunch Break,,,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,4/06/2018,Mon,4/06/2018 12:45,4/06/2018 16:30,10,3.75,0100 - Non Chargable,TSheets Android App,Tafe,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,5/06/2018,Tue,5/06/2018 8:00,5/06/2018 12:15,10,4.25,0100 - Non Chargable,TSheets Android App,Tafe,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,5/06/2018,Tue,5/06/2018 12:15,5/06/2018 12:45,10,0.5,Lunch Break,,,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,5/06/2018,Tue,5/06/2018 12:45,5/06/2018 16:45,10,4,0100 - Non Chargable,TSheets Android App,Tafe,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,6/06/2018,Wed,6/06/2018 8:30,6/06/2018 12:30,10,4,0100 - Non Chargable,TSheets Android App,TAFE,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,6/06/2018,Wed,6/06/2018 12:30,6/06/2018 13:00,10,0.5,Lunch Break,,,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,6/06/2018,Wed,6/06/2018 13:00,6/06/2018 16:45,10,3.75,0100 - Non Chargable,TSheets Android App,TAFE,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,7/06/2018,Thu,7/06/2018 8:00,7/06/2018 12:15,10,4.25,0100 - Non Chargable,TSheets Android App,Tafe,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,7/06/2018,Thu,7/06/2018 12:15,7/06/2018 12:45,10,0.5,Lunch Break,,,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,7/06/2018,Thu,7/06/2018 12:45,7/06/2018 16:30,10,3.75,0100 - Non Chargable,TSheets Android App,Tafe,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,8/06/2018,Fri,8/06/2018 8:00,8/06/2018 10:45,10,2.75,0100 - Non Chargable,TSheets Android App,"TAFE, finished at 12.30pm",approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,8/06/2018,Fri,8/06/2018 10:45,8/06/2018 11:15,10,0.5,Lunch Break,,,approved
+bradley.couch@igoc.com.au,,Bradley,Couch,0,-,8/06/2018,Fri,8/06/2018 11:15,8/06/2018 14:30,10,3.25,0100 - Non Chargable,TSheets Android App,"TAFE, finished at 12.30pm",approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,4/06/2018,Mon,4/06/2018 7:15,4/06/2018 9:30,10,2.25,I - 2134 - Mantra Midtown Fan,TSheets Android App,"Picked up ceiling fan , high temp canle and sleeve from cnw Bowen hills. Completed job no 2134 mantra midtown",approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,4/06/2018,Mon,4/06/2018 9:30,4/06/2018 11:15,10,1.75,I - 2109 - Capri By Fraser,TSheets Android App,Further investigated why vsd is not working correctly.  It is stuck in fault mode and cant be reset need to replace vsd . Report needs to be sent to bob,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,4/06/2018,Mon,4/06/2018 11:15,4/06/2018 11:30,10,0.25,I - 2135 - Mantra On Edward,TSheets Android App,Work through job no 2135 at mantra edward,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,4/06/2018,Mon,4/06/2018 11:30,4/06/2018 12:00,10,0.5,Lunch Break,,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,4/06/2018,Mon,4/06/2018 12:00,4/06/2018 15:45,10,3.75,I - 2135 - Mantra On Edward,TSheets Android App,Work through job no 2135 at mantra edward,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,5/06/2018,Tue,5/06/2018 7:15,5/06/2018 10:15,10,3,I - 2137 - Capri Emerg light test,TSheets Android App,"Completed jobs 2137, 2138, 2145",approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,5/06/2018,Tue,5/06/2018 10:15,5/06/2018 10:45,10,0.5,Lunch Break,,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,5/06/2018,Tue,5/06/2018 10:45,5/06/2018 13:15,10,2.5,I - 2137 - Capri Emerg light test,TSheets Android App,"Completed jobs 2137, 2138, 2145",approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,5/06/2018,Tue,5/06/2018 13:15,5/06/2018 14:30,10,1.25,I - 2143 - Mantra Midtown Rm 503,TSheets Android App,Completed job 2143,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,5/06/2018,Tue,5/06/2018 14:30,5/06/2018 16:30,10,2,0100 - Non Chargable,TSheets Android App,Swap over work ute at workshop and picked up parts for tomorrows job,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,6/06/2018,Wed,6/06/2018 7:15,6/06/2018 11:30,10,4.25,Q - 2136 - Cleanaway Yatala 200w LED's,TSheets Android App,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,6/06/2018,Wed,6/06/2018 11:30,6/06/2018 12:00,10,0.5,Lunch Break,,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,6/06/2018,Wed,6/06/2018 12:00,6/06/2018 15:45,10,3.75,Q - 2136 - Cleanaway Yatala 200w LED's,TSheets Android App,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,7/06/2018,Thu,7/06/2018 7:30,7/06/2018 7:45,10,0.25,0100 - Non Chargable,TSheets Android App,Swap work utes and pick up parts at workshpp,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,7/06/2018,Thu,7/06/2018 7:45,7/06/2018 9:30,10,1.75,I -  2154 - Muil Rosie's house,TSheets Android App,Installed cooktop,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,7/06/2018,Thu,7/06/2018 9:30,7/06/2018 11:30,10,2,I - 2131 - Cool Times,TSheets Android App,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,7/06/2018,Thu,7/06/2018 11:30,7/06/2018 12:00,10,0.5,Lunch Break,,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,7/06/2018,Thu,7/06/2018 12:00,7/06/2018 16:00,10,4,I - 2131 - Cool Times,TSheets Android App,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,8/06/2018,Fri,8/06/2018 7:15,8/06/2018 9:45,10,2.5,I - 2158 - S360 ACU VAV,TSheets Android App,"Repair faults with vav1a , supply air pressure valve on ahu1 chill water valve on ahu1",approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,8/06/2018,Fri,8/06/2018 9:45,8/06/2018 10:15,10,0.5,I - 2131 - Cool Times,TSheets Android App,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,8/06/2018,Fri,8/06/2018 10:15,8/06/2018 10:45,10,0.5,Lunch Break,,,approved
+clay.dewar@igoc.com.au,,Clay,Dewar,0,-,8/06/2018,Fri,8/06/2018 10:45,8/06/2018 13:15,10,2.5,I - 2131 - Cool Times,TSheets Android App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,4/06/2018,Mon,4/06/2018 6:30,4/06/2018 10:45,10,4.25,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,4/06/2018,Mon,4/06/2018 10:45,4/06/2018 11:15,10,0.5,Lunch Break,,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,4/06/2018,Mon,4/06/2018 11:15,4/06/2018 15:15,10,4,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,5/06/2018,Tue,5/06/2018 8:00,5/06/2018 11:45,10,3.75,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,5/06/2018,Tue,5/06/2018 11:45,5/06/2018 12:15,10,0.5,Lunch Break,,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,5/06/2018,Tue,5/06/2018 12:15,5/06/2018 15:30,10,3.25,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,6/06/2018,Wed,6/06/2018 6:30,6/06/2018 10:45,10,4.25,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,6/06/2018,Wed,6/06/2018 10:45,6/06/2018 11:15,10,0.5,Lunch Break,,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,6/06/2018,Wed,6/06/2018 11:15,6/06/2018 15:00,10,3.75,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,7/06/2018,Thu,7/06/2018 6:30,7/06/2018 10:45,10,4.25,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,7/06/2018,Thu,7/06/2018 10:45,7/06/2018 11:15,10,0.5,Lunch Break,,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,7/06/2018,Thu,7/06/2018 11:15,7/06/2018 15:00,10,3.75,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,8/06/2018,Fri,8/06/2018 6:30,8/06/2018 10:15,10,3.75,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,8/06/2018,Fri,8/06/2018 10:15,8/06/2018 10:45,10,0.5,Lunch Break,,,approved
+thomas.edwards@igoc.com.au,,Tom,Edwards,0,-,8/06/2018,Fri,8/06/2018 10:45,8/06/2018 14:15,10,3.5,I - 2122 - Muil Rectification Works,TSheets iPhone App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,4/06/2018,Mon,4/06/2018 7:00,4/06/2018 11:15,10,4.25,I - 2130 - Muil Quoted,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,4/06/2018,Mon,4/06/2018 11:15,4/06/2018 11:45,10,0.5,Lunch Break,,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,4/06/2018,Mon,4/06/2018 11:45,4/06/2018 15:30,10,3.75,I - 2130 - Muil Quoted,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,5/06/2018,Tue,5/06/2018 6:00,5/06/2018 6:30,10,0.5,Q - 2140 - Gobble N Go,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,5/06/2018,Tue,5/06/2018 6:30,5/06/2018 9:00,10,2.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,5/06/2018,Tue,5/06/2018 9:00,5/06/2018 10:30,10,1.5,Q - 2141 - A-Grade Aluminium Mill,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,5/06/2018,Tue,5/06/2018 10:30,5/06/2018 11:00,10,0.5,Lunch Break,,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,5/06/2018,Tue,5/06/2018 11:00,5/06/2018 14:30,10,3.5,I - 2130 - Muil Quoted,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,6/06/2018,Wed,6/06/2018 7:00,6/06/2018 11:45,10,4.75,Q - 2136 - Cleanaway Yatala 200w LED's,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,6/06/2018,Wed,6/06/2018 11:45,6/06/2018 12:15,10,0.5,Lunch Break,,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,6/06/2018,Wed,6/06/2018 12:15,6/06/2018 16:00,10,3.75,Q - 2136 - Cleanaway Yatala 200w LED's,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,7/06/2018,Thu,7/06/2018 7:00,7/06/2018 10:30,10,3.5,Q - 2155 - Cleanaway Yatala maintenance,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,7/06/2018,Thu,7/06/2018 10:30,7/06/2018 11:00,10,0.5,Lunch Break,,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,7/06/2018,Thu,7/06/2018 11:00,7/06/2018 14:15,10,3.25,Q - 2155 - Cleanaway Yatala maintenance,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,7/06/2018,Thu,7/06/2018 14:15,7/06/2018 15:30,10,1.25,I - 2130 - Muil Quoted,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,8/06/2018,Fri,8/06/2018 7:00,8/06/2018 8:45,10,1.75,I - 2130 - Muil Quoted,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,8/06/2018,Fri,8/06/2018 9:00,8/06/2018 13:15,10,4.25,Q  - 1934 - Megaburn,TSheets Android App,,approved
+richard.farley@igoc.com.au,,Richard,Farley,0,-,8/06/2018,Fri,8/06/2018 13:15,8/06/2018 13:30,10,0.25,0001 - Lunch Break,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,4/06/2018,Mon,4/06/2018 7:30,4/06/2018 11:15,10,3.75,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,4/06/2018,Mon,4/06/2018 11:15,4/06/2018 11:45,10,0.5,Lunch Break,,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,4/06/2018,Mon,4/06/2018 11:45,4/06/2018 15:15,10,3.5,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,4/06/2018,Mon,4/06/2018 15:15,4/06/2018 16:00,10,0.75,0100 - Non Chargable,TSheets Android App,drop gav off to his car,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,5/06/2018,Tue,5/06/2018 7:30,5/06/2018 10:45,10,3.25,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,5/06/2018,Tue,5/06/2018 10:45,5/06/2018 11:45,10,1,I - 2139 - Skyline Apartments,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,5/06/2018,Tue,5/06/2018 11:45,5/06/2018 12:15,10,0.5,Lunch Break,,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,5/06/2018,Tue,5/06/2018 12:15,5/06/2018 16:15,10,4,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,6/06/2018,Wed,6/06/2018 6:30,6/06/2018 10:45,10,4.25,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,6/06/2018,Wed,6/06/2018 10:45,6/06/2018 11:15,10,0.5,Lunch Break,,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,6/06/2018,Wed,6/06/2018 11:15,6/06/2018 15:00,10,3.75,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,7/06/2018,Thu,7/06/2018 7:30,7/06/2018 11:15,10,3.75,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,7/06/2018,Thu,7/06/2018 11:15,7/06/2018 11:45,10,0.5,Lunch Break,,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,7/06/2018,Thu,7/06/2018 11:45,7/06/2018 15:00,10,3.25,I - 2131 - Cool Times,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,7/06/2018,Thu,7/06/2018 15:00,7/06/2018 16:00,10,1,0100 - Non Chargable,TSheets Android App,Collect parts for Kawana job,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,8/06/2018,Fri,8/06/2018 7:30,8/06/2018 8:45,10,1.25,Q  - 2017 - Kawana school kiln,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,8/06/2018,Fri,8/06/2018 8:45,8/06/2018 10:45,10,2,0100 - Non Chargable,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,8/06/2018,Fri,8/06/2018 10:45,8/06/2018 11:15,10,0.5,Lunch Break,,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,8/06/2018,Fri,8/06/2018 11:15,8/06/2018 12:00,10,0.75,0100 - Non Chargable,TSheets Android App,,approved
+reddon.nathan@igoc.com.au,,Reddon,Nathan,0,-,8/06/2018,Fri,8/06/2018 12:00,8/06/2018 14:00,10,2,I - 2131 - Cool Times,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,4/06/2018,Mon,4/06/2018 6:30,4/06/2018 11:00,10,4.5,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,4/06/2018,Mon,4/06/2018 11:00,4/06/2018 11:30,10,0.5,Lunch Break,,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,4/06/2018,Mon,4/06/2018 11:30,4/06/2018 15:30,10,4,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,5/06/2018,Tue,5/06/2018 7:15,5/06/2018 11:30,10,4.25,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,5/06/2018,Tue,5/06/2018 11:30,5/06/2018 12:00,10,0.5,Lunch Break,,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,5/06/2018,Tue,5/06/2018 12:00,5/06/2018 15:45,10,3.75,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,5/06/2018,Tue,5/06/2018 15:45,5/06/2018 16:00,10,0.25,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,6/06/2018,Wed,6/06/2018 7:30,6/06/2018 10:30,10,3,0000 - Overhead,"(Tellebang, Queensland, AU?)",,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,6/06/2018,Wed,6/06/2018 10:30,6/06/2018 11:00,10,0.5,Lunch Break,,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,6/06/2018,Wed,6/06/2018 11:00,6/06/2018 13:45,10,2.75,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,6/06/2018,Wed,6/06/2018 13:45,6/06/2018 16:00,10,2.25,0000 - Overhead,"in: TSheets Android App, out: (Tellebang, Queensland, AU?)",,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,7/06/2018,Thu,7/06/2018 7:15,7/06/2018 11:00,10,3.75,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,7/06/2018,Thu,7/06/2018 11:00,7/06/2018 11:30,10,0.5,Lunch Break,,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,7/06/2018,Thu,7/06/2018 11:30,7/06/2018 14:45,10,3.25,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,7/06/2018,Thu,7/06/2018 14:45,7/06/2018 16:00,10,1.25,C - 2144 - 18-0132 - The Lobby at The Calile Hotel,"in: TSheets Android App, out: (Tellebang, Queensland, AU?)",,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,8/06/2018,Fri,8/06/2018 7:15,8/06/2018 11:30,10,4.25,0000 - Overhead,TSheets Android App,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,8/06/2018,Fri,8/06/2018 11:30,8/06/2018 12:00,10,0.5,Lunch Break,,,approved
+gavin.russell@igoc.com.au,,Gavin,Russell,0,-,8/06/2018,Fri,8/06/2018 12:00,8/06/2018 15:45,10,3.75,0000 - Overhead,TSheets Android App,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,4/06/2018,Mon,4/06/2018 8:30,4/06/2018 13:30,10,5,0010 - ICA Quotes,TSheets iPhone App,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,4/06/2018,Mon,4/06/2018 13:30,4/06/2018 14:00,10,0.5,Lunch Break,,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,4/06/2018,Mon,4/06/2018 14:00,4/06/2018 18:45,10,4.75,0010 - ICA Quotes,TSheets iPhone App,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,5/06/2018,Tue,5/06/2018 8:30,5/06/2018 11:45,10,3.25,0010 - ICA Quotes,TSheets iPhone App,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,5/06/2018,Tue,5/06/2018 11:45,5/06/2018 12:15,10,0.5,Lunch Break,,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,5/06/2018,Tue,5/06/2018 12:15,5/06/2018 15:00,10,2.75,0010 - ICA Quotes,TSheets iPhone App,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,6/06/2018,Wed,6/06/2018 8:30,6/06/2018 13:00,10,4.5,0010 - ICA Quotes,TSheets iPhone App,"JN-18-0132 the lobby bar points and equip
+JN18-0144 Dickenson st gfx re draw 
+JN18-0098 Brisbane st gfx
+
+Quote 
+JN18-0139 BCC Data Centre 
+Port of brisbane",approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,6/06/2018,Wed,6/06/2018 13:00,6/06/2018 13:30,10,0.5,Lunch Break,,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,6/06/2018,Wed,6/06/2018 13:30,6/06/2018 17:30,10,4,0010 - ICA Quotes,TSheets iPhone App,"JN-18-0132 the lobby bar points and equip
+JN18-0144 Dickenson st gfx re draw 
+JN18-0098 Brisbane st gfx
+
+Quote 
+JN18-0139 BCC Data Centre 
+Port of brisbane",approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,7/06/2018,Thu,7/06/2018 7:30,7/06/2018 11:00,10,3.5,0010 - ICA Quotes,TSheets iPhone App,"Mantra client visit 9am
+Looking at quotes till then",approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,7/06/2018,Thu,7/06/2018 12:15,7/06/2018 12:45,10,0.5,Lunch Break,,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,7/06/2018,Thu,7/06/2018 14:45,7/06/2018 17:00,10,2.25,0010 - ICA Quotes,TSheets iPhone App,"Quote Robina hospital
+Buildings E F G 
+
+",approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,8/06/2018,Fri,8/06/2018 7:00,8/06/2018 9:15,10,2.25,I - 2158 - S360 ACU VAV,TSheets iPhone App,"Wty call look at chilled water valve, VAV and press transducer ",approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,8/06/2018,Fri,8/06/2018 9:15,8/06/2018 9:30,10,0.25,0001 - Lunch Break,TSheets iPhone App,,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,8/06/2018,Fri,8/06/2018 9:30,8/06/2018 16:00,10,6.5,0100 - Non Chargable,TSheets iPhone App,Quotes ,approved
+mike.sargent@igoc.com.au,,Mike,Sargent,0,-,9/06/2018,Sat,9/06/2018 7:00,9/06/2018 7:01,10,0.02,0100 - Non Chargable,TSheets iPhone App,Quotes ,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,4/06/2018,Mon,4/06/2018 6:30,4/06/2018 11:15,10,4.75,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,4/06/2018,Mon,4/06/2018 11:15,4/06/2018 11:45,10,0.5,Lunch Break,,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,4/06/2018,Mon,4/06/2018 11:45,4/06/2018 15:00,10,3.25,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,5/06/2018,Tue,5/06/2018 6:30,5/06/2018 10:45,10,4.25,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,5/06/2018,Tue,5/06/2018 10:45,5/06/2018 11:15,10,0.5,Lunch Break,,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,5/06/2018,Tue,5/06/2018 11:15,5/06/2018 15:15,10,4,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,6/06/2018,Wed,6/06/2018 6:30,6/06/2018 10:45,10,4.25,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,6/06/2018,Wed,6/06/2018 10:45,6/06/2018 11:15,10,0.5,Lunch Break,,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,6/06/2018,Wed,6/06/2018 11:15,6/06/2018 15:00,10,3.75,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,7/06/2018,Thu,7/06/2018 6:30,7/06/2018 10:45,10,4.25,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,7/06/2018,Thu,7/06/2018 10:45,7/06/2018 11:15,10,0.5,Lunch Break,,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,7/06/2018,Thu,7/06/2018 11:15,7/06/2018 15:00,10,3.75,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,8/06/2018,Fri,8/06/2018 6:30,8/06/2018 9:45,10,3.25,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,8/06/2018,Fri,8/06/2018 9:45,8/06/2018 10:15,10,0.5,Lunch Break,,,approved
+robert.tampion@igoc.com.au,,Robert,Tampion,0,-,8/06/2018,Fri,8/06/2018 10:15,8/06/2018 13:00,10,2.75,I - 2122 - Muil Rectification Works,TSheets Android App,,approved
